@@ -455,6 +455,7 @@ Bei der zweiten Figur wird schnell klar: Ob hier ein DIC gewirkt hat, oder die I
 ### Welche DIC-Implementationen gibt es und was können diese?
 
 |Funktion/DIC|PHP-DI|Pimple|Symfony DI|Zend DI|Aura DI|
+|----|----|----|----|----|----|
 |Aktuelle Version|~4|~3|?|?|
 |Configuration|PHP, Annotations|PHP|PHP, Yaml, XML|PHP|PHP|
 |Autowiring|Ja|Nein|Nein|Nein|Nein|
